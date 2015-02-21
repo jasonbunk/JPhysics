@@ -1,0 +1,6 @@
+# Ignore everything in build folder
+build/*
+
+#ignore CodeBlocks' files
+JPhysics.depend
+JPhysics.layout
