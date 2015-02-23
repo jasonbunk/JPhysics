@@ -1,3 +1,11 @@
+/*
+ * Author: Jason Bunk
+ * Web page: http://sites.google.com/site/jasonbunk
+ * License: The MIT License (MIT) (Expat)
+ * Copyright (c) 2015 Jason Bunk
+ */
+
+
 // JPhysics.cpp : Defines the exported functions for the DLL application.
 //
 

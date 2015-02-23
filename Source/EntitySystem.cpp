@@ -1,3 +1,11 @@
+/*
+ * Manages updating of entities.
+ *
+ * Author: Jason Bunk
+ * Web page: http://sites.google.com/site/jasonbunk
+ * License: The MIT License (MIT) (Expat)
+ * Copyright (c) 2015 Jason Bunk
+ */
 
 #include "stdafx.h"
 #include "EntitySystem.h"
